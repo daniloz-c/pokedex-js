@@ -1,0 +1,21 @@
+{
+  "name": "pokedex-javascript-puro",
+  "version": "1.0.0",
+  "description": "Pokédex desenvolvida em JavaScript puro com Fetch API",
+  "type": "module",
+  "scripts": {
+    "serve": "http-server",
+    "dev": "http-server -p 8000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "keywords": [
+    "pokedex",
+    "pokemon",
+    "javascript",
+    "fetch"
+  ],
+  "author": "",
+  "license": "MIT"
+}
